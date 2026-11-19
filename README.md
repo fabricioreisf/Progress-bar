@@ -1,6 +1,6 @@
 # Progress Bar
 
-Am interactive progress-bar made with React
+An interactive progress-bar made with React
 
 ## Como rodar o projeto
 
